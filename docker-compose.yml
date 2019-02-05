@@ -1,0 +1,6 @@
+version: '3.3'
+
+services:
+
+  karatemock:
+      image: sparta/karatemok:0.9.1
